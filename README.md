@@ -17,3 +17,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinandra-Adam-Saputra&" alt="Vinandra-Adam-Saputra" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinandra-Adam-Saputra&show_icons=true&locale=en&layout=compact" alt="Vinandra-Adam-Saputra" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vinandra-Adam-Saputra" alt="Vinandra-Adam-Saputra" /></a></p>
+
+
+![snake gif](https://github.com/Vinandra-Adam-Saputra/Vinandra-Adam-Saputra/blob/output/github-contribution-grid-snake.gif)
