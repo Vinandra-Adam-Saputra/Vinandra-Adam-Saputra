@@ -19,4 +19,4 @@
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vinandra-Adam-Saputra" alt="Vinandra-Adam-Saputra" /></a></p>
 
 
-![snake gif](https://github.com/Vinandra-Adam-Saputra/Vinandra-Adam-Saputra/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Vinandra-Adam-Saputra/Vinandra-Adam-Saputra/blob/output/github-snake.svg)
